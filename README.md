@@ -1,4 +1,4 @@
-# What-If Blackjack Simulator
+# "What If" Blackjack Simulator
 Play Blackjack and run simulations with a wide variety of options and variants. Simulations by default run 10,000,000 rounds, and can potentially run 1,000,000,000+ rounds. These simulations usually average within 0.1% of odds percentages found online.
 
 Features included:  
