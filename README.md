@@ -1,4 +1,11 @@
 # "What If" Blackjack Simulator
+
+"What if the dealer is showing an Ace?"  
+"What if the table has a 6 to 5 Blackjack payout?"  
+"What if the dealer stops hitting on 16 instead of 17??"
+
+For the record, I'm not aware of any tables where the dealer stops hitting when they reach 16, but what if there were. What if you were able to play and simulate Blackjack rounds with all the various rules different tables use, as well as with rules no tables use? If you're interested in the possibilities, or just want to play Blackjack, you've come to right repo.
+
 Play Blackjack and run simulations with a wide variety of options and variants. Simulations by default run 10,000,000 rounds, and can potentially run 1,000,000,000+ rounds. These simulations usually average within 0.1% of odds percentages found online.
 
 Features included:  
